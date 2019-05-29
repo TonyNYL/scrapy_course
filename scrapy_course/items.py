@@ -18,7 +18,7 @@ class CourseItem(Item):
     #课程标题 /初识HTML + CSS
     title = Field()
     #课程URL
-    url = Field()
+    # url = Field()
     #课程标题图片
     image_url = Field()
     #课程描述
